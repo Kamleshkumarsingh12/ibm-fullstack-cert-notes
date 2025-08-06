@@ -31,3 +31,5 @@ This repository contains my personal notes, code snippets, mini-projects, and ce
 ## 🧾 Final Certificate (will be added soon)
 
 > Made with ❤️ while learning full-stack development and preparing for my career as a software developer.
+> > 🛡️ Disclaimer: These are my **personal notes and code** written while taking the IBM Full Stack Developer Certificate on Coursera. All content is written in my own words. This repository does **not** contain any proprietary or copyrighted course material.
+
