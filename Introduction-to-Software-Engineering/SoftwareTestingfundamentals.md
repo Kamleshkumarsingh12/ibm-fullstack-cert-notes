@@ -67,3 +67,9 @@ Scenario: User checkout process
   When I proceed to checkout
   Then I should see payment options
   And my order total must match cart
+```
+💡 Best Practices:
+Automate regression tests for CI/CD.
+Combine functional + non-functional early.
+Use real data for UAT.
+📚 References: ISTQB Syllabus, Selenium Docs
