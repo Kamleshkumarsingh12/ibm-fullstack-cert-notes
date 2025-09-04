@@ -25,7 +25,7 @@ This repository contains my personal notes, code snippets, mini-projects, and ce
 - [ ] Node & Express
 - [ ] MongoDB
 - [ ] CI/CD
-- [*] Cloud Deployment
+- [ ✅ ] Cloud Deployment
 - [ ] Capstone Project
 
 ## 🧾 Final Certificate (will be added soon)
