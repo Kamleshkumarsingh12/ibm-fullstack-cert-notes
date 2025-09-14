@@ -3,44 +3,6 @@
 This document is a comprehensive guide to **HTML (HyperText Markup Language)** and **CSS (Cascading Style Sheets)**.  
 It is designed as a one-stop reference for beginners and intermediate learners.
 
----
-
-## 📌 Table of Contents
-1. [Introduction](#introduction)
-2. [HTML Basics](#html-basics)
-   - [Structure of an HTML Document](#structure-of-an-html-document)
-   - [HTML Elements & Tags](#html-elements--tags)
-   - [Attributes](#attributes)
-   - [Headings & Paragraphs](#headings--paragraphs)
-   - [Formatting Text](#formatting-text)
-   - [Lists](#lists)
-   - [Links](#links)
-   - [Images](#images)
-   - [Tables](#tables)
-   - [Forms](#forms)
-   - [Semantic HTML](#semantic-html)
-   - [Multimedia](#multimedia)
-   - [HTML5 Features](#html5-features)
-3. [CSS Basics](#css-basics)
-   - [What is CSS?](#what-is-css)
-   - [Ways to Add CSS](#ways-to-add-css)
-   - [Selectors](#selectors)
-   - [Colors](#colors)
-   - [Units](#units)
-   - [Box Model](#box-model)
-   - [Positioning](#positioning)
-   - [Flexbox](#flexbox)
-   - [Grid](#grid)
-   - [Typography](#typography)
-   - [Backgrounds](#backgrounds)
-   - [Borders & Shadows](#borders--shadows)
-   - [Transitions & Animations](#transitions--animations)
-   - [Responsive Design & Media Queries](#responsive-design--media-queries)
-4. [Best Practices](#best-practices)
-5. [Interview Questions](#interview-questions)
-6. [Resources](#resources)
-
----
 
 ## Introduction
 - **HTML**: The standard markup language for structuring web pages.
